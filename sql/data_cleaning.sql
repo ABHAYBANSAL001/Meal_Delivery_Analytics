@@ -200,3 +200,6 @@ SELECT
 FROM center_info;
 
 
+
+-- Mirrors logic in scripts/load_and_clean.py
+-- Standardizes column names and removes null values
