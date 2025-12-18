@@ -1,0 +1,1 @@
+order_id, customer_id, restaurant_id, order_date, delivery_time, order_value, discount_applied
